@@ -1,0 +1,41 @@
+.custom-modal {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  }
+  
+  .modal-title {
+    font-size: 24px;
+    font-weight: 800;
+  }
+  
+  .modal-content {
+    margin-top: 20px;
+  }
+  
+  .modal-paragraph {
+    margin: 10px 0;
+  }
+  label{
+    font-size: large;
+    font-weight: 700;
+  }
+  .address{
+    margin: 44%;
+    text-decoration: underline;
+    margin-bottom: 2em;
+  }
+  .addresses{
+    display: flex;
+    justify-content: space-around;
+  }
+  .address-list{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  }
+  p{
+    font-size: larger;
+  }
+  
